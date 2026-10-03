@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Ansh Pandey
 
-<!--
-**Ansh-Pandey123/Ansh-Pandey123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python & SQL Developer | Fresher
 
-Here are some ideas to get you started:
+I'm a fresher interested in software development and database technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- SQL
+- MySQL
+- C
+- C++
+- Tkinter
+- Git & GitHub
+
+## 📌 Projects
+
+- Student Management System using Python, Tkinter & MySQL
+- Authentication System using PHP & MySQL
+
+## 🌱 Currently Learning
+
+- Advanced Python
+- SQL
+- Data Structures & Algorithms
+- Web Development
